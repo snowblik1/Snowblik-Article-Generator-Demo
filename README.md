@@ -1,6 +1,10 @@
 <div align="center">
 
-![Snowblik Article Generator Demo](snowblik-article-generator-demo.png)
+<p align="center">
+  <img src="snowblik-article-generator-demo.png"
+       alt="Snowblik Article Generator Demo"
+       width="320">
+</p>
 
 # Snowblik Article Generator Demo
 
